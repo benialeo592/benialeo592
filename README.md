@@ -34,7 +34,7 @@
     <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png" alt="git" width="40" height="40"/> 
   </a>
     <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png" alt="git" width="40" height="40"/> 
+    <img src="https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png" alt="git" width="40" height="40"/> 
   </a>
     <a href="https://laravel.com/" target="_blank"> 
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="git" width="40" height="40"/> 
