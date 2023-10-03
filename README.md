@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Real Estate Project made with Laravel, VueJS and InertiaJS
 - 🌱 I’m currently trying to master Java and Spring
-- 👯 I’m looking to collaborate whit big enteprise's projects to grow up quickly
+- 👯 I’m looking to collaborate on big enteprise's projects to grow up quickly
 - 📫 How to reach me: **benialeo592@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
