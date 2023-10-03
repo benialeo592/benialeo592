@@ -27,6 +27,26 @@
   </a> 
 </p>
 
+<h3 align="center">Frameworks:</h3>
+
+<p align="center"> 
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png" alt="git" width="40" height="40"/> 
+  </a>
+    <a href="https://spring.io/" target="_blank"> 
+    <img src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png" alt="git" width="40" height="40"/> 
+  </a>
+    <a href="https://laravel.com/" target="_blank"> 
+    <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="git" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="center">Database:</h3>
+<p align="center"> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
