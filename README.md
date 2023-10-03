@@ -37,7 +37,7 @@
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="git" width="40" height="40"/> 
   </a>
    <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png" alt="git" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/spring-boot-icon-2048x2046-hlpnsm8r.png" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
