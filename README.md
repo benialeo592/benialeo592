@@ -39,8 +39,8 @@
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="git" width="40" height="40"/> 
   </a>
-   <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://static-00.iconduck.com/assets.00/angular-icon-497x512-uwybstke.png" alt="git" width="40" height="40"/> 
+   <a href="https://angular.io/" target="_blank"> 
+    <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-476x512-31akx6uw.png" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
