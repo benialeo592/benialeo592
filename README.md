@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Web Developer from Italy</h3>
 
 
-- 🔭 I’m currently working on a Real Estate Project made with Laravel, VueJS and InertiaJS
 - 🌱 I’m currently trying to master Java and Spring
 - 👯 I’m looking to collaborate on big enteprise projects to grow up quickly
 - 📫 How to reach me: **benialeo592@gmail.com**
