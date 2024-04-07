@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benny <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Web Developer from Italy</h3>
 
-
-- 🌱 I’m currently trying to master Java and Spring
-- 👯 I’m looking to collaborate on big enteprise projects to grow up quickly
 - 📫 How to reach me: **benialeo592@gmail.com**
 
 <h3 align="center">Languages:</h3>
